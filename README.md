@@ -1,5 +1,5 @@
 # sci-RNA-seq-kidney
-This page describes scripts used in the project of profiling mouse kidney fibrogenesis with sci-RNA-seq3.
+This page presents scripts used in the project of profiling mouse kidney fibrogenesis with sci-RNA-seq3.
 
 Figure 1
 
