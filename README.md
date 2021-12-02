@@ -5,10 +5,10 @@ The raw and processed data have been deposited on Gene Expression Omnibus (**GSE
 ### Descriptions
 
 #### 1. Scripts for Figure 1<br>
-Quality control and single-cell clustering/<br>
-Pseudobulk trajectory ordering (Fig. 1c)/<br>
-Single-cell visualization (Fig. 1d/f)/<br>
-Gene expression visualization (Fig. 1e)/<br>
+Quality control and single-cell clustering<br>
+Pseudobulk trajectory ordering (Fig. 1c)<br>
+Single-cell visualization (Fig. 1d/f)<br>
+Gene expression visualization (Fig. 1e)<br>
 
 
 #### 2. Scripts for Figure 2<br>
