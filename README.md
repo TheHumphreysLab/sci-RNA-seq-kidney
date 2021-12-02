@@ -2,7 +2,7 @@
 This repository documented the scripts to generate the data for our manuscript entitled ***Kidney Fibrogenesis with sci-RNA-seq3***. <link> <br>
 The raw and processed data have been deposited on Gene Expression Omnibus (**GSE**).  <br>
 A searchable database, including gene expression in all kidney cell types and PT cell types is available at our Kidney Interactive Transcriptomics (K.I.T.) website: http://humphreyslab.com/SingleCell/.<link> <br><br>
-Pre-processing of raw fastq files was performed as previously described: https://github.com/JunyueC/sci-RNA-seq3_pipeline<br>
+Pre-processing of raw fastq files was performed as previously described (Cao et al., Nature, 2019 | Cao et al., Science, 2020): https://github.com/JunyueC/sci-RNA-seq3_pipeline<br>
 
 ### Descriptions
 
