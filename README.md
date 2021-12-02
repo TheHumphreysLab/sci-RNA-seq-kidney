@@ -37,7 +37,7 @@ Statistical analysis (Fig. 6a/b)<br>
 
 <br>
 **************<br>
-Please contact the corresponding author, Dr. Benjamin Humphreys, with questions or comments.  
+Please contact the corresponding author, Dr. Benjamin Humphreys, with questions or comments.  <br>
 <br/>
 
 Find us on Twitter: 
