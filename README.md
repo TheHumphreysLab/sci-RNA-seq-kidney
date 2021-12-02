@@ -36,16 +36,10 @@ Commands used for CellPhoneDB analysis<br>
 Statistical analysis (Fig. 6a/b)<br>
 
 <br>
-
+**************<br>
 Please contact the corresponding author, Dr. Benjamin Humphreys, with questions or comments.  
 <br/>
-Thanks,  
-Benjamin D. Humphreys, Haikuo Li
 
-<br/>
-Check out our interactive datasets with Kidney Interactive mulTiomics (KIT):  
-http://humphreyslab.com/SingleCell/
-<br/><br/>
 Find us on Twitter: 
 <br/>
   <a href="https://twitter.com/HumphreysLab?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false"> @HumphreysLab</a>
