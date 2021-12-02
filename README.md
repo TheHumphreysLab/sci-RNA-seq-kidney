@@ -36,6 +36,10 @@ Gene module scoring (Fig. 5e)<br>
 Commands used for CellPhoneDB analysis<br>
 Statistical analysis (Fig. 6a/b)<br>
 
+#### 6. Meta data<br>
+RT barcode - Sample Lookup Table<br>
+Meta info of all cells used for clustering (Fig. 6a/b)<br>
+
 <br>
 **************<br>
 Please contact the corresponding author, Dr. Benjamin Humphreys, with questions or comments.  <br>
