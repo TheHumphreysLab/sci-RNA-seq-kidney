@@ -12,8 +12,12 @@ Gene expression visualization (Fig. 1e)<br>
 
 
 #### 2. Scripts for Figure 2<br>
-Differential_gene_analysis/<br>
-MAGMA_analysis/<br>
+Single-cell visualization (Fig. 2a)<br>
+Gene expression visualization (Fig. 2b)<br>
+Single-cell TF activity analysis (Fig. 2c)<br>
+Single-cell pathway activity analysis (Fig. 2d)<br>
+Single-cell trajectory ordering (Fig. 2f)<br>
+Fate prediction analysis with time-series scRNAseq data (Fig. 2g)<br>
 
 #### 3. Scripts for Figure 4<br> 
 Differential_gene_analysis/<br>
@@ -30,6 +34,3 @@ Bulk_RNAseq_analysis/<br>
 Deconvolution_analysis/<br>
 Cell-Cell_interaction_analysis/<br>
 
-#### 6. Scripts for Figure 7<br>
-Differential_gene_analysis/<br>
-Pathway_analysis/
