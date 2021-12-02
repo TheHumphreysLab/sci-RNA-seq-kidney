@@ -38,7 +38,7 @@ Statistical analysis (Fig. 6a/b)<br>
 
 #### 6. Meta data<br>
 RT barcode - Sample Lookup Table<br>
-Meta info of all cells used for clustering (Fig. 6a/b)<br>
+Meta info of all cells used for clustering<br>
 
 <br>
 **************<br>
