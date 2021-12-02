@@ -20,17 +20,17 @@ Single-cell trajectory ordering (Fig. 2f)<br>
 Fate prediction analysis with time-series scRNAseq data (Fig. 2g)<br>
 
 #### 3. Scripts for Figure 4<br> 
-Differential_gene_analysis/<br>
-Cell-Cell_interaction_analysis/<br>
-Pathway_analysis/<br>
+Quality control and single-cell subclustering<br>
+Single-cell visualization (Fig. 4a/b)<br>
+Gene expression visualization (Fig. 4c/d/f)<br>
 
 #### 4. Scripts for Figure 5<br>
-Differential_gene_analysis/<br>
-pySCENIC_analysis/<br>
+Quality control and single-cell subclustering<br>
+Single-cell visualization (Fig. 5a/c)<br>
+Gene expression visualization (Fig. 5b/f/g)<br>
+Gene module scoring (Fig. 5e)<br>
 
 #### 5. Scripts for Figure 6<br>
-clustering/<br>
-Bulk_RNAseq_analysis/<br>
-Deconvolution_analysis/<br>
-Cell-Cell_interaction_analysis/<br>
+Commands used for CellPhoneDB analysis<br>
+Statistical analysis (Fig. 6a/b)<br>
 
