@@ -21,20 +21,20 @@ Single-cell pathway activity analysis (Fig. 2d)<br>
 Single-cell trajectory ordering (Fig. 2f)<br>
 Fate prediction analysis with time-series scRNAseq data (Fig. 2g)<br>
 
-#### 3. Scripts for Figure 4<br> 
+#### 3. Scripts for Figure 5<br> 
 Quality control and single-cell subclustering<br>
-Single-cell visualization (Fig. 4a/b)<br>
-Gene expression visualization (Fig. 4c/d/f)<br>
+Single-cell visualization (Fig. 5a/b)<br>
+Gene expression visualization (Fig. 5c/d/f)<br>
 
-#### 4. Scripts for Figure 5<br>
+#### 4. Scripts for Figure 6<br>
 Quality control and single-cell subclustering<br>
-Single-cell visualization (Fig. 5a/c)<br>
-Gene expression visualization (Fig. 5b/f/g)<br>
-Gene module scoring (Fig. 5e)<br>
+Single-cell visualization (Fig. 6a/c)<br>
+Gene expression visualization (Fig. 6b/f/g)<br>
+Gene module scoring (Fig. 6e)<br>
 
-#### 5. Scripts for Figure 6<br>
+#### 5. Scripts for Figure 7<br>
 Commands used for CellPhoneDB analysis<br>
-Statistical analysis (Fig. 6a/b)<br>
+Statistical analysis (Fig. 7a/b)<br>
 
 #### 6. Meta data<br>
 RT barcode - Sample Lookup Table<br>
