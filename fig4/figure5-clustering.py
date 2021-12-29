@@ -1,4 +1,4 @@
-#This script describes the workflow of single-cell subclustering used in Fig.4, including LoH and DCT/CNT/PC cells.
+#This script describes the workflow of single-cell subclustering used in Fig.5, including LoH and DCT/CNT/PC cells.
 ##Initial QC may have been performed before this script. (See Methods)
 
 ##for LoH cells
