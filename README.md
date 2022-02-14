@@ -9,7 +9,7 @@ Pre-processing of raw fastq files was performed as previously described (Cao et 
 #### 1. Scripts for Figure 1<br>
 Quality control and single-cell clustering<br>
 Pseudobulk trajectory ordering (Fig. 1c)<br>
-Single-cell visualization (Fig. 1d/f)<br>
+Single-cell visualization (Fig. 1d)<br>
 Gene expression visualization (Fig. 1e)<br>
 
 
@@ -21,20 +21,17 @@ Single-cell pathway activity analysis (Fig. 2d)<br>
 Single-cell trajectory ordering (Fig. 2f)<br>
 Fate prediction analysis with time-series scRNAseq data (Fig. 2g)<br>
 
-#### 3. Scripts for Figure 5<br> 
+#### 3. Scripts for Figure 6<br> 
 Quality control and single-cell subclustering<br>
-Single-cell visualization (Fig. 5a/b)<br>
-Gene expression visualization (Fig. 5c/d/f)<br>
+Single-cell visualization (Fig. 6a/b)<br>
+Gene expression visualization (Fig. 6c/d/f)<br>
 
-#### 4. Scripts for Figure 6<br>
+#### 4. Scripts for Figure 7<br>
 Quality control and single-cell subclustering<br>
-Single-cell visualization (Fig. 6a/c)<br>
-Gene expression visualization (Fig. 6b/f/g)<br>
-Gene module scoring (Fig. 6e)<br>
-
-#### 5. Scripts for Figure 7<br>
+Single-cell visualization (Fig. 7a/b)<br>
+Gene module scoring (Fig. 7e)<br>
 Commands used for CellPhoneDB analysis<br>
-Statistical analysis (Fig. 7a/b)<br>
+Statistical analysis (Fig. 7f/g)<br>
 
 #### 6. Meta data<br>
 RT barcode - Sample Lookup Table<br>
