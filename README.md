@@ -1,6 +1,6 @@
 # Comprehensive single-cell transcriptional profiling defines epithelial injury responses during kidney fibrogenesis
 This repository documents the scripts to generate the data for our manuscript which studys mouse kidney fibrogenesis with sci-RNA-seq3. <link> <br> <br>
-<img src="https://haikuoli.github.io/files/scheme.png" alt="Project workflow"><br>
+<img src="https://haikuoli.github.io/files/scheme.png" alt="Project workflow"><br><br>
 
 The raw (.fastq) and pre-processed (count matrix) data and metadata have been deposited in NCBI’s Gene Expression Omnibus and are available through GEO Series accession number GSE190887.  <br> <br>
 A searchable database, including gene expression in all kidney cell types and PT cell types is available at our Kidney Interactive Transcriptomics (K.I.T.) website: http://humphreyslab.com/SingleCell/.<link> <br><br>
