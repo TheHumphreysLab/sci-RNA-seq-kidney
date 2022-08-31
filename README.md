@@ -1,5 +1,5 @@
 # Comprehensive single-cell transcriptional profiling defines epithelial injury responses during kidney fibrogenesis
-This repository documents the scripts to generate data for our manuscript which studys mouse kidney fibrogenesis with sci-RNA-seq3. <link> <br> <br>
+This repository documents the scripts to generate data for our manuscript entitled ***Comprehensive single-cell transcriptional profiling defines shared and unique epithelial injury responses during kidney fibrogenesis***, which studys mouse kidney fibrogenesis with sci-RNA-seq3. <link> <br> <br>
 
 Project workflow:<br>
 <img src="https://haikuoli.github.io/files/sciseq-scheme.png" alt="Project workflow"><br><br>
@@ -43,8 +43,7 @@ Meta info of all cells used for clustering<br>
 
 <br>
 **************<br>
-Please contact the corresponding author, Dr. Benjamin Humphreys, with questions or comments.  <br>
-<br/>
+
 
 Find us on Twitter: 
 <br/>
